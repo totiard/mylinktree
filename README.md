@@ -1,7 +1,5 @@
 # mylinktree
-Tentu! Berikut adalah contoh format README yang bisa Anda gunakan untuk proyek Anda di GitHub:
 
-```markdown
 # My Google Meet Linktree
 
 A simple and visually appealing Linktree-style webpage that redirects users to different Google Meet links based on their choices. The page provides a countdown before redirecting and uses a stylish gradient background and smooth animations to enhance the user experience.
