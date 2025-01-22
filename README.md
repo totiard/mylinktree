@@ -1,5 +1,3 @@
-# mylinktree
-
 # My Google Meet Linktree
 
 A simple and visually appealing Linktree-style webpage that redirects users to different Google Meet links based on their choices. The page provides a countdown before redirecting and uses a stylish gradient background and smooth animations to enhance the user experience.
@@ -34,7 +32,7 @@ If you'd like to set up this project locally:
 
 1. Clone this repository to your local machine using Git:
    ```bash
-   git clone https://github.com/yourusername/repository-name.git
+   git clone https://github.com/totiard/mylinktree.git
    ```
 2. Open the `index.html` file in your browser.
 
@@ -74,20 +72,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Created with ❤️ by [Your Name](https://github.com/yourusername).
-```
-
-### Penjelasan:
-
-- **Title and Features**: Di bagian atas, saya mencantumkan nama proyek dan beberapa fitur utama yang dimiliki oleh halaman tersebut.
-- **Demo**: Memberikan tautan ke demo langsung (jika tersedia).
-- **How to Use**: Langkah-langkah yang dapat diikuti pengguna untuk menggunakan proyek ini.
-- **Technologies Used**: Daftar teknologi yang digunakan dalam proyek ini (HTML, CSS, JavaScript).
-- **Setup and Customization**: Langkah-langkah untuk men-setup dan menyesuaikan proyek.
-- **Contribution**: Instruksi untuk berkontribusi jika ada yang ingin memberikan sumbangan pada proyek ini.
-- **License**: Saya menyarankan untuk menggunakan lisensi MIT agar proyek Anda dapat digunakan dan dimodifikasi oleh orang lain.
-
-### Cara Menggunakan:
-Gantilah URL demo dan link GitHub Anda sesuai kebutuhan. Jangan lupa untuk mengupdate bagian "Customizing" agar pengguna tahu cara menyesuaikan link dan pilihan dropdown.
-
-Jika ada hal lain yang ingin ditambahkan atau modifikasi, tinggal sesuaikan dengan kebutuhan Anda!
+Created with ❤️ by [Your Name](https://github.com/totiard).
